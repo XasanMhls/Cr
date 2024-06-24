@@ -1,0 +1,63 @@
+.header{
+    color: blueviolet;
+    border-radius: 25px;
+    border-color: red;
+    background-color: lightblue;
+    text-align: center;
+
+}
+.mark{
+    background-color: yellow;
+}
+.color{
+    color: red;
+}
+.item{
+    color: green;
+}
+.bad{
+    color: green;
+    
+}
+.midlle{
+    background-color: yellow;
+    text-align: center;
+}
+img{
+    width: 700px;
+    height: 400px;
+}
+button{
+    background-color: deepskyblue;
+    color: white;
+}
+.table{
+     background-color: yellow;
+     color: green;
+     text-align: center;
+}
+.green{
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+.green{
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+.blue{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+.red{
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+.black{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
